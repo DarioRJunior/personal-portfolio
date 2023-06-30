@@ -12,7 +12,7 @@ Projeto: 🚀Concluido
 
 ## 💻 Objetivo
  
- Portfólio - Site contendo todas as minhas informações e habilidades. Disponível em: 
+ Portfólio - Site contendo todas as minhas informações e habilidades. Disponível em: https://dario-code-portfolio.vercel.app/
 
 
 ## 🛠 Tecnologias
@@ -27,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="">
+<a href="https://dario-code-portfolio.vercel.app/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62716267?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Dario_Code</b></sub></a> <a href="">🚀</a>
