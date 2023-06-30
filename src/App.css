@@ -553,6 +553,17 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     width: 60%;
   }
 
+  .meu-col {
+    display: flex;
+    justify-content: center;
+  }
+
+  .banner img {
+    height: 60%;
+    width: 60%;
+    margin-top: 20px;
+  }
+
   .footer {
     padding: 0 0 20px 0;
   }

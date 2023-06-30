@@ -50,7 +50,7 @@ export const Banner = () => {
                         <p>Sou desenvolvedor Front-end & Mobile, formado em Análise e Desenvolvimento de Sistemas pelo Unicuritiba em 2022.1. Sou pós-graduando em Projetos de Aplicativos Móveis Multiplataforma e Projetos em Cloud Computing pela Descomplica.</p>
                         <button onClick={() => console.log('connect')}><a href="https://www.linkedin.com/in/dariocode/" target="_blank">Vamos nos Conectar <ArrowRightCircle /></a></button>
                     </Col>
-                    <Col xs={12} md={6} xl={5}>
+                    <Col xs={12} md={6} xl={5} className="meu-col">
                         <img src={headerImg} alt="Header Img" />
                     </Col>
                 </Row>
