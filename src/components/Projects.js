@@ -2,10 +2,18 @@ import { Col, Container, Row, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import chatgpt3 from "../assets/img/chat-gpt3.png";
 import andamento from "../assets/img/em-andamento.png";
+import apcvnt from "../assets/img/APCVNT.png";
 import  encurtaLink from "../assets/img/encurtar-link.png";
 export const Projects = () => {
 
     const projects = [
+        {
+            title: "Site da APCVNT",
+            description: "Design & Desenvolvimento",
+            imgUrl: apcvnt,
+            link: "https://apcvnt.com.br/",
+            codigo: "https://apcvnt.com.br/"
+        },
         {
             title: "Chat Gpt-3",
             description: "Design & Desenvolvimento",
@@ -15,17 +23,10 @@ export const Projects = () => {
         },
         {
             title: "Encurtador de Link",
-            description: "Deisgn e Desenvolvimento",
+            description: "Design & Desenvolvimento",
             imgUrl: encurtaLink,
             link: "https://encurtalink.vercel.app/",
             codigo: "https://github.com/DarioRJunior/encurtador-de-link"
-        },
-        {
-            title: "Em Andamento",
-            description: "Em Andamento",
-            imgUrl: andamento,
-            link: "https://github.com/DarioRJunior",
-            codigo: "https://github.com/DarioRJunior"
         },
         {
             title: "Em Andamento",
